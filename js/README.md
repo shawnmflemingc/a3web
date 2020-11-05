@@ -12,7 +12,9 @@ function myFunction(p1, p2) {
   return p1 * p2;
 }
 ```
-Inside your webpage you would call this function by refrencing it and providing the parameter variables (p1 and p2, which will be multiplied together). 
+You would not call the myFunction inside the JS file itself unless that call itself was within a function too. Everything inside of the JS file must be contained within functions. There should be multiple functions too, don't just build "spagetti code" and put everything into one function. 
+
+The proper way is on your webpage you would call the function by refrencing it and providing the parameter variables (p1 and p2, which will be multiplied together). 
 ```html
 <!DOCTYPE html>
 <html>
