@@ -11,13 +11,11 @@ Comments must include the group member's name at the start and end of the block.
 <title>Page Title</title>
 </head>
 <body>
-<!-- 
-**************************
-* Owner : Shawn Morgan
-* Date  : Nov 5 (v1)
-* From  : https://www.w3schools.com/html/html_intro.asp
-**************************
--->
+<!-- -----------------
+- Owner : Shawn Morgan
+- Date  : Nov 5 (v1)
+- From  : https://www.w3schools.com/html/html_intro.asp
+---------------------->
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
 <!--*** End Owner: Shawn Morgan *** -->
