@@ -15,7 +15,7 @@ Comments must include the group member's name at the start and end of the block.
 - Owner : Shawn Morgan
 - Date  : Nov 5 (v1)
 - From  : https://www.w3schools.com/html/html_intro.asp
----------------------->
+------------------- -->
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
 <!--*** End Owner: Shawn Morgan *** -->
@@ -24,7 +24,7 @@ Comments must include the group member's name at the start and end of the block.
 
 ```
 ### CSS comment block example:
-CSS comments are similar:
+CSS comments are similar and all group members must contribute to the overall CSS:
 ```CSS
 /***************** 
 * Owner : Shawn Morgan
@@ -37,5 +37,16 @@ p {
 /* End Owner: Shawn Morgan */
 ```
 ### JS comment block example:
+JavaScript comments again are similar, but not everyone has to contribute to the code. 
+```
+////////////////////
+// Owner : Shawn Morgan
+// Date  : Nov 5 (v1)
+// From  : https://www.w3schools.com/html/html_intro.asp
+////////////////////
+
+document.getElementById("myH").innerHTML = "JavaScript Comments";
+// End Owner: Shawn Morgan
+```
 ## All group members to contribute to HTML and CSS
 Each group member helps build the entire website. There are 2 pages per group member required, but that doesn't mean each group member creates two pages in isolation and then the group brings those together. That count of 2 per member means the solution must be that big. Each member should be contributing to sections of every page. Perhaps make one member responsible for the menuing system, another for main body layout and a third can work on the JavaScript interaction. All members would contribute content for the site as well. 
