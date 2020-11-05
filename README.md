@@ -4,7 +4,7 @@ This repository provides some examples and documents best practices for your gro
 Comments are important in all of your code. Your group must use an owner name for each section in comments. All code must be divided up and allocated to only one group member and cannot be shared. Contributions from other members are encouraged, but the owner of a code block is the one responsible for its function and how it works with all other sections. 
 ### HTML comment block example:
 Comments must include the group member's name at the start and end of the block. For example:
-```HTML5
+```HTML
 <!DOCTYPE html>
 <html>
 <head>
@@ -12,11 +12,11 @@ Comments must include the group member's name at the start and end of the block.
 </head>
 <body>
 <!-- 
-********************************
+**************************
 * Owner : Shawn Morgan
-* Date   : Nov 5 (v1)
-* Modified from: https://www.w3schools.com/html/html_intro.asp
-********************************
+* Date  : Nov 5 (v1)
+* From  : https://www.w3schools.com/html/html_intro.asp
+**************************
 -->
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
@@ -26,6 +26,18 @@ Comments must include the group member's name at the start and end of the block.
 
 ```
 ### CSS comment block example:
+CSS comments are similar:
+```CSS
+/***************** 
+* Owner : Shawn Morgan
+* Date  : Nov 5 (v1)
+* From  : https://www.w3schools.com/html/html_intro.asp
+******************/
+p {
+  color: red;
+} 
+/* End Owner: Shawn Morgan */
+```
 ### JS comment block example:
 ## All group members to contribute to HTML and CSS
 Each group member helps build the entire website. There are 2 pages per group member required, but that doesn't mean each group member creates two pages in isolation and then the group brings those together. That count of 2 per member means the solution must be that big. Each member should be contributing to sections of every page. Perhaps make one member responsible for the menuing system, another for main body layout and a third can work on the JavaScript interaction. All members would contribute content for the site as well. 
