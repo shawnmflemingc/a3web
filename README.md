@@ -4,7 +4,7 @@ This repository provides some examples and documents best practices for your gro
 Comments are important in all of your code. Your group must use an owner name for each section in comments. All code must be divided up and allocated to only one group member and cannot be shared. Contributions from other members are encouraged, but the owner of a code block is the one responsible for its function and how it works with all other sections. 
 ### HTML comment block example:
 Comments must include the group member's name at the start and end of the block. For example:
-```HTML
+```HTML5
 <!DOCTYPE html>
 <html>
 <head>
