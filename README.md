@@ -38,7 +38,7 @@ p {
 ```
 ### JS comment block example:
 JavaScript comments again are similar, but not everyone has to contribute to the code. 
-```
+```JavaScript
 ////////////////////
 // Owner : Shawn Morgan
 // Date  : Nov 5 (v1)
