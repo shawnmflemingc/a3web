@@ -7,13 +7,13 @@ The second type are <script> sections in the page itself which interact with the
 where all CSS will be in one file. 
 ## Avoid global variables and having code run in the main JS file
 The code within the common JS file should not be called in the JS file itself. For example, in your JS file you might have a simple JavaScript function: 
-'''
+```javascript
 function myFunction(p1, p2) {
   return p1 * p2;
 }
-'''
+```
 Inside your webpage you would call this function by refrencing it and providing the parameter variables (p1 and p2, which will be multiplied together). 
-'''
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -33,4 +33,4 @@ document.getElementById("demo").innerHTML = myFunction(4, 3);
 
 </body>
 </html>
-'''
+```
