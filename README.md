@@ -57,12 +57,13 @@ https://www.w3schools.com/html/html5_syntax.asp
 
 ## Quality Control
 Developing a good website isn’t just about the content. Actually most of your marks comes from what you do in your HTML tags, style from CSS and how well the JavaScript functions. Checking each of these is important to maximize your marks. 
-###HTML and CSS validator
+
+### HTML and CSS validator
 Each HTML or CSS error is costly. So use the provided validators to check your HTML, CSS and revise them using the provided tips to solve the problem. 
 HTML5 validator: https://validator.w3.org/
 CSS3 validator: https://jigsaw.w3.org/css-validator/
 
-###Checking JavaScript code
+### Checking JavaScript code
 
 Use the recommended debugging methods on w3schools, and check the best practices because they align with the assignment
 Debugging tips: https://www.w3schools.com/js/js_debugging.asp
