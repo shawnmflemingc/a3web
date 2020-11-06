@@ -53,6 +53,7 @@ Each group member helps build the entire website. There are 2 pages per group me
 
 ## Use consistent and purposeful HTML style
 Use the style guide as a base to form your groups’ defined style. Neatness counts! Adaptations to this style are ok but should not violate the basics shown in the guide. If in doubt, ask. 
+
 https://www.w3schools.com/html/html5_syntax.asp
 
 ## Quality Control
@@ -60,12 +61,16 @@ Developing a good website isn’t just about the content. Actually most of your 
 
 ### HTML and CSS validator
 Each HTML or CSS error is costly. So use the provided validators to check your HTML, CSS and revise them using the provided tips to solve the problem. 
+
 HTML5 validator: https://validator.w3.org/
+
 CSS3 validator: https://jigsaw.w3.org/css-validator/
 
 ### Checking JavaScript code
-
 Use the recommended debugging methods on w3schools, and check the best practices because they align with the assignment
+
 Debugging tips: https://www.w3schools.com/js/js_debugging.asp
+
 Best practices for JavaScript: https://www.w3schools.com/js/js_best_practices.asp
+
 Common mistakes: https://www.w3schools.com/js/js_mistakes.asp
