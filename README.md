@@ -1,5 +1,8 @@
 # Geom101 Assignment 3 Technical Guide (2020)
 This repository provides some examples and documents best practices for your group to work through in Assignment 3. Each directory has a README.md file that explains the purpose of that directory and its contents. These items will be updated as clarifying questions come. 
+## Repository Name
+The Github repository must be named exactly a3web and hosted as an exact copy on each of your groups' github websites under that repository. You can't edit all 4 at the same time and you must be all editing the same repository together. 
+
 ## Comments
 Comments are important in all your code. Your group must use an owner name for each section in comments. All code must be divided up and allocated to only one group member and cannot be shared. Contributions from other members are encouraged, but the owner of a code block is the one responsible for its function and how it works with all other sections. 
 ### HTML comment block example:
