@@ -3,9 +3,9 @@ This repository provides some examples and documents best practices for your gro
 ## Repository Name
 The Github repository must be named exactly `a3web` and hosted as an exact copy on each of your groups' github websites under that repository. You can't edit all 4 at the same time and you must be all editing the same repository together. 
 
-The example website (here) can be visited by going to `https://shawnmflemingc.github.io/a3web/`
+The example website (here) can be visited by going to https://shawnmflemingc.github.io/a3web/
 
-Because there is a default file named index.html within this repository the URL does not require the filename added on the end. It will work with or without it: `https://shawnmflemingc.github.io/a3web/index.html`.
+Because there is a default file named index.html within this repository the URL does not require the filename added on the end. It will work with or without it: https://shawnmflemingc.github.io/a3web/index.html.
 
 ## Recommended group contribution workflow
 The project requires a design first, which will involve the team together making basic decisions. First chose which group member will host the website in their a3web repository and add other group members as contributors. As a team figure what your theme will be and then start mocking up the website and looking at other websites for ideas. 
