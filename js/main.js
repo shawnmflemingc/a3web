@@ -1,4 +1,4 @@
-// Script for side navigation
+// Script for side navigation -- example change
 function w3_open() {
     var x = document.getElementById("mySidebar");
     x.style.width = "300px";
