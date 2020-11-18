@@ -5,6 +5,8 @@ If you modify any of the template code, you must migrate those functions to your
 With JavaScript you will have two types: code blocks as functions that can be called from any page, which will be hosted in your one JS file stored in this folder. 
 The second type are <script> sections in the page itself which interact with the page and call functions stored in the one JS file. This is very different than CSS
 where all CSS will be in one file. 
+## Host external libraries by CDN
+jQuery and other external libraries can be hosted using the CDN from Google or Microsoft. Alternatively you can use the CDN by the creator itself. Learn more here: https://code.jquery.com/. 
 ## Avoid global variables and having code run in the main JS file
 The code within the common JS file should not be called in the JS file itself. For example, in your JS file you might have a simple JavaScript function: 
 ```javascript
