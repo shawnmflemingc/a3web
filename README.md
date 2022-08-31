@@ -1,4 +1,4 @@
-# Geom101 Assignment 3 Technical Guide (2021)
+# Geom101 Assignment 3 Technical Guide (2022)
 This repository provides some examples and documents best practices for your group to work through in Assignment 3. Each directory has a README.md file that explains the purpose of that directory and its contents. These items will be updated as clarifying questions come. 
 ## Repository Name
 The Github repository must be named exactly `a3web` and hosted as an exact copy on each of your groups' github websites under that repository. You can develop in your own repository to get things "right" and then copy it manually to a "master" site, or you can all work in the same repository together--whichever is more comfortable for your group. 
