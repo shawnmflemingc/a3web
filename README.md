@@ -69,7 +69,7 @@ JavaScript comments again are similar, but not everyone has to contribute to the
 ```JavaScript
 ////////////////////
 // Owner : Shawn Morgan
-// Date  : Nov 5 (v1)
+// Date  : Nov 14 (v1)
 // From  : https://www.w3schools.com/html/html_intro.asp
 ////////////////////
 
