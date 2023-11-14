@@ -1,5 +1,5 @@
 
-# Workflow for VS Code, GitHub and GIT.
+# Workflow for VS Code, GitHub and GIT
 
 Setting up Visual Studio Code (VSCode) for website design with GitHub in a team environment involves several key steps to ensure smooth collaboration and efficient workflow. Here's a guide to get you started:
 
